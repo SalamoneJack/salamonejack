@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Jack
 
-<!--
-**SalamoneJack/salamonejack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Network Engineer | Hybrid Cloud Specialist**
 
-Here are some ideas to get you started:
+I design and build hybrid cloud network infrastructure across AWS and Azure for healthcare environments. CCNP-certified with 3+ years of production cloud networking experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Work With
+
+**Cloud Networking** — AWS VPC, Azure VNet, Transit Gateway, ExpressRoute, Site-to-Site VPN
+**Enterprise Networking** — BGP, OSPF, HSRP, VLAN, SD-WAN, QoS
+**Security** — FortiGate, IPSec/SSL VPN, RADIUS, Conditional Access, MFA
+**Platforms** — Cisco IOS, FortiOS, Meraki, AWS, Azure, Linux
+
+## 📜 Certifications
+
+- Cisco Certified Network Professional (CCNP Enterprise) — 2025
+- Cisco Certified Specialist – Enterprise Wireless Design — 2023
+- Cisco Certified Network Associate (CCNA) — 2022
+- AWS Solutions Architect Associate — *In progress*
+
+## 🌐 Find Me
+
+- 🌍 [jacksalamone.com](https://jacksalamone.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jacksalamone)
+- 📧 salamonejack@gmail.com
+
+---
+
+*Currently focused on bridging enterprise networking and public cloud — building portfolio projects that show what's possible when CCNP meets AWS.*
