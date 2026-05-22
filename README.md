@@ -6,10 +6,12 @@ I design and build hybrid cloud network infrastructure across AWS and Azure for 
 
 ## 🔧 What I Work With
 
-**Cloud Networking** — AWS VPC, Azure VNet, Transit Gateway, ExpressRoute, Site-to-Site VPN
-**Enterprise Networking** — BGP, OSPF, HSRP, VLAN, SD-WAN, QoS
-**Security** — FortiGate, IPSec/SSL VPN, RADIUS, Conditional Access, MFA
-**Platforms** — Cisco IOS, FortiOS, Meraki, AWS, Azure, Linux
+| Category | Technologies |
+|---|---|
+| **Cloud Networking** | AWS VPC, Azure VNet, Transit Gateway, ExpressRoute, Site-to-Site VPN |
+| **Enterprise Networking** | BGP, OSPF, HSRP, VLAN, SD-WAN, QoS |
+| **Security** | FortiGate, IPSec/SSL VPN, RADIUS, Conditional Access, MFA |
+| **Platforms** | Cisco IOS, FortiOS, Meraki, AWS, Azure, Linux |
 
 ## 📜 Certifications
 
