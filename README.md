@@ -35,7 +35,7 @@ I design and build hybrid cloud network infrastructure across AWS and Azure for 
 
 ## 📊 GitHub Activity
 
-![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalamoneJack&show_icons=true&theme=default)
+![Jack's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SalamoneJack&show_icons=true&theme=default)
 
 ## 🌐 Find Me
 
