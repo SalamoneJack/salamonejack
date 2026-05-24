@@ -12,7 +12,7 @@ I design and build hybrid cloud network infrastructure across AWS and Azure for 
 
 ## 🔭 Currently Building
 
-- Hybrid cloud networking labs (AWS + Terraform)
+- Hybrid cloud networking (AWS + Terraform)
 - AWS Solutions Architect Associate certification
 - Technical writing on bridging enterprise networking and cloud
 
