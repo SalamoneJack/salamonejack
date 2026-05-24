@@ -2,8 +2,8 @@
 
 **Network Engineer | Hybrid Cloud Specialist**
 
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-FF9900?logo=aws&logoColor=white)
-![Azure](https://custom-icon-badges.demolab.com/badge/Azure-0078D4?logo=azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
