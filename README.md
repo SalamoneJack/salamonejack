@@ -8,7 +8,7 @@
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-I design and build hybrid cloud network infrastructure across AWS and Azure for healthcare environments. CCNP-certified with 3+ years of production cloud networking experience, specializing in the intersection of enterprise networking and public cloud.
+I design and build hybrid cloud network infrastructure across AWS and Azure for healthcare environments. CCNP-certified with 5+ years of production cloud networking experience, specializing in the intersection of enterprise networking and public cloud.
 
 ## 🔭 Currently Building
 
