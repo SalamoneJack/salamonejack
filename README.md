@@ -33,10 +33,6 @@ I design and build hybrid cloud network infrastructure across AWS and Azure for 
 - Cisco Certified Network Associate (CCNA) — 2022
 - AWS Solutions Architect Associate — *In Progress*
 
-## 📊 GitHub Activity
-
-![Jack's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SalamoneJack&show_icons=true&theme=default)
-
 ## 🌐 Find Me
 
 - 🌍 [jacksalamone.com](https://jacksalamone.com)
