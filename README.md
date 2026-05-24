@@ -2,7 +2,7 @@
 
 **Network Engineer | Hybrid Cloud Specialist**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonwebservices&logoColor=white)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-FF9900?logo=aws&logoColor=white)
 ![Azure](https://custom-icon-badges.demolab.com/badge/Azure-0078D4?logo=azure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white)
@@ -12,7 +12,7 @@ I design and build hybrid cloud network infrastructure across AWS and Azure for 
 
 ## 🔭 Currently Building
 
-- Hybrid cloud networking labs (AWS + Terraform)
+- Hybrid cloud networking (AWS + Terraform)
 - AWS Solutions Architect Associate certification
 - Technical writing on bridging enterprise networking and cloud
 
