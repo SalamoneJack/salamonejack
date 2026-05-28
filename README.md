@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Jack
+# Jack Salamone — Network & Cloud Infrastructure Engineer
 
-**Network Engineer | Hybrid Cloud Specialist**
+**CCNP-Certified | Hybrid Cloud (AWS + Azure)**
 
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-FF9900?logo=aws&logoColor=white)
 ![Azure](https://custom-icon-badges.demolab.com/badge/Azure-0078D4?logo=azure&logoColor=white)
